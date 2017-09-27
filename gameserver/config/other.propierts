@@ -1,0 +1,6 @@
+
+# L2WalkerProtection
+# True: protection from bots ON
+# False: protection from bots OFF
+L2WalkerProtection = True
+
